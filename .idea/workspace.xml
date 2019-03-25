@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85118aeb-25c1-4628-8723-09f2aaf46f0f" name="Default Changelist" comment="" />
+    <list default="true" id="85118aeb-25c1-4628-8723-09f2aaf46f0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="402">
+              <caret line="40" column="57" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -48,8 +50,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/indus/training/Duplicate.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/indus/training/PlayWithNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java" />
       </list>
     </option>
   </component>
@@ -81,7 +83,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -228,7 +230,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553456593347</updated>
-      <workItem from="1553456597503" duration="6475000" />
+      <workItem from="1553456597503" duration="6890000" />
     </task>
     <servers />
   </component>
@@ -265,10 +267,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6475000" />
+    <option name="totallyTimeSpent" value="6890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
@@ -325,8 +328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="402">
+          <caret line="40" column="57" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
         </state>
       </provider>
     </entry>
