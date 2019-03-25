@@ -37,7 +37,9 @@ public class PlayWithNum {
         int[] myArray = {1, 2, 3, 3, 4, 6};
 
         PlayWithNum dObj = new PlayWithNum();
+
         System.out.println(dObj.findDuplicate(myArray));
+        
         System.out.println(dObj.findMissingNum(myArray));
 
 

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85118aeb-25c1-4628-8723-09f2aaf46f0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/indus/training/PlayWithNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/indus/training/PlayWithNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,16 +14,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+            <state relative-caret-position="419">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/indus/training/PlayWithNumTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="470">
@@ -50,8 +50,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/indus/training/Duplicate.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/indus/training/PlayWithNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java" />
       </list>
     </option>
   </component>
@@ -230,7 +230,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553456593347</updated>
-      <workItem from="1553456597503" duration="6944000" />
+      <workItem from="1553456597503" duration="7016000" />
     </task>
     <servers />
   </component>
@@ -267,7 +267,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6944000" />
+    <option name="totallyTimeSpent" value="7016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -319,17 +319,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/indus/training/PlayWithNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/indus/training/PlayWithNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
         </state>
       </provider>
     </entry>
