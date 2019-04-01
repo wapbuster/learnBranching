@@ -32,5 +32,15 @@ public class PlayWithNumTest {
 
     }
 
+    @Test
+    public void findMissingNum() {
+
+        int[] testArray = {1, 2, 3, 3, 5};
+        Integer expectedResult = 4;
+
+        Integer actualRestult = playObj.findMissingNum(testArray);
+
+        assertEquals(expectedResult, actualRestult);
+    }
 
 }
